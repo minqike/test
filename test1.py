@@ -12,6 +12,7 @@ class Cat(Animal):
         print("叫")
 
 
+
 class A(object):
     def __init__(self):
         print(1)
