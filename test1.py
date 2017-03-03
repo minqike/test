@@ -25,7 +25,3 @@ class C(B):
     def __init__(self):
         print(super(C, self).__module__)
 
-
-d = C()
-
-
